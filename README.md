@@ -1,4 +1,4 @@
-[![MasterHead](https://file:///C:/Users/User/Downloads/DALL%C2%B7E%202024-11-18%2020.44.54%20-%20A%20vibrant%20and%20modern%20GitHub%20banner%20image%20featuring%20clean,%20minimalistic%20design%20with%20abstract%20geometric%20shapes%20and%20a%20tech-inspired%20theme.%20The%20image%20shou.webp)](https://rishavchanda.io)
+[![MasterHead](https://cdn.vectorstock.com/i/500p/07/19/software-development-programming-coding-vector-29570719.avif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ekram Hossain</h1>
 <h3 align="center">A passionate Junior Full stack developer from Bangladesh</h3>
 <img  align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg"
